@@ -1,0 +1,10 @@
+{
+  "name": "babel_plugin",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel ./src/input.js -o ./src/output.js"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
